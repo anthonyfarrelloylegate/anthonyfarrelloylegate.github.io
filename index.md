@@ -1,30 +1,22 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>RamblingsOfAnthony, Anthony Farrell</title>
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Anthony Farrell!</h1>
-				<p>
-        This is the main page for code snippets, sample projects and hopefully blogs for Anthony Farrell.
+---
+layout: default
+title: Anthony Farrell
+---
 
-Over time this will page will evolve with smarter styling. For now just adding a couple of links to previous IBM devWorks articles and blog entries. Links will be added shortly…</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:anthonyfarrelloylegate@gmail.com">email</a></li>
-        		<li><a href="https://github.com/anthonyfarrelloylegate">github.com/anthonyfarrelloylegate</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">first blog</a></li>
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">next</a></li>
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">next</a></li>
+
+  </ul>
+  
+  <h1>DevWorks Articles </h1>
+  <ul class="posts">
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">first blog</a></li>
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">next</a></li>
+    <li><span>12 Sep 2013</span> &raquo; <a href="http://www.xxx">next</a></li>
+
+  </ul>
+</div>
