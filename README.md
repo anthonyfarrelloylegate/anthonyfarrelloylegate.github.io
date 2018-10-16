@@ -1,5 +1,17 @@
-# Anthony Farrell
+# This is the data for my blog
 
-This is the main page for code snippets, sample projects and hopefully blogs for Anthony Farrell.   
+It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) whenever I push this repository to GitHub.
 
-Over time this will page will evolve with smarter styling.  For now just adding a couple of links  to previous IBM devWorks articles and blog entries.  Links will be added shortly...
+Posting my blog posts on ]Google Blogger](http://ramblingsofanthony.blogspot.com/) was great but at this stage seems a little old school for  modern software engineers.  Concentrating your blogs and projects in one central location has a large appeal.
+
+I alos want to author my posts locally in Textile or Markdown. My blogs should really be easy to style and most of all, my site should be stored on GitHub so that I never lose projects, blogs again.
+again.
+
+## License
+
+The following directories and their contents are Copyright Anthony Farrell.  You may reuse anything therein without my permission: 
+
+* \posts/
+* images/
+
+If you do use them, a link back to http://github.com/anthonyfarrelloylegate would be appreciated, but is not required.
