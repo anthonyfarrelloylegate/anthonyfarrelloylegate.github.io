@@ -1,18 +1,19 @@
 # README
-** (2 minutes to read) **
+**(2 minutes to read)**
 
 In my previous blog post [Git me out of here - writing with Markdown](http://ramblingsofanthony.blogspot.com/2018/09/git-out-of-here-writing-simple-readmes.html) we looked at Git and discussed how Git & GitHub has changed the way we code and are now changing the way we document our code. Our documentation can now be closer to the code than it has ever been before.  
 
 I was about to dive in and start documenting but where to start? Given the options what should I use? What do I write into a GitHub README file, when to use the WIKI feature on GitHub; what is the difference between GitHub Pages and Jekyll.  What is the difference between Jekyll, GitBook and other Static Site Generators (SSG’s) like VuePress and Hugo. Which static site generator do you choose if any at all.
 
 
-**For today’s blog** let’s start with the humble README file that you see on GitHub; what it is, why they are an absolute necessity, and how to craft them well.
+**For today’s blog** we start with the humble README file that you see on GitHub; what it is, why they are an absolute necessity, and how to craft them well.
 
 
 **In my next blog,** I will look at the rise in popularity of Static Site generators (SSG’s). The rise of SSG’s has highlighted the enthusiasm for ready-made tooling that allows users to focus on content leaving boilerplate code to be auto-generated through declarative statements.  I will show how these tools integrate with GitHub allowing GitHub to host compelling sites.
 
 
 ## The humble README
+A Readme first started as a guide for developers who would read it after downloading the code, this is now changed scanning the readme is now first before downloading.  This shift means your readme has now transitioned to marketing and basic project information.
 
 You may be waiting to write your README until your project is finished. This is a mistake.  Try a different approach and write as much of your README as you can before you start your project. Like the agile process of [TDD](https://en.wikipedia.org/wiki/Test-driven_development) surely we should also move to readme driven development for our repo’s.   The readme should be the single most important document in your codebase, write it early as you would with your design documentation; writing it first is the proper thing to do.
 
