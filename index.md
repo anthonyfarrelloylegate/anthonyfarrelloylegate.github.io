@@ -1,7 +1,4 @@
----
-layout: default
-title: Anthony Farrell
----
+
  
  # Blogs
  Blogs | When | Link
@@ -16,7 +13,6 @@ title: Anthony Farrell
 &raquo;|November 2016 |[Go to a code retreat!](http://ramblingsofanthony.blogspot.com/search?updated-max=2017-02-22T03:42:00-08:00&max-results=7)
 &raquo;|February 2016|[ngineers Week 2016](http://ramblingsofanthony.blogspot.com/2016/03/engineers-week-2016.html)
 &raquo;|Janruary 2016| [Hello World](http://ramblingsofanthony.blogspot.com/2016/01/hello-world.html)
-&raquo;||
 
 # DevWorks Articles
  Blogs | When | Link
