@@ -1,8 +1,9 @@
 
 
  # Blogs
- Blogs | When | Link
-&raquo; | October 2018 | [Creating a Readme](./posts/README-blog-Oct-2018.md)
+ *  October 2018  [Creating a Readme](./posts/README-blog-Oct-2018.md)
+ * &raquo;  October 2018 [Creating a Readme](./posts/README-blog-Oct-2018.md)
+ 
 &raquo; | September 2018 | [Git out of here - Writing with Markdown](http://ramblingsofanthony.blogspot.com/2018/09/git-out-of-here-writing-simple-readmes.html)
 &raquo; |August 2018|[Let Lambda do the Legwork](http://ramblingsofanthony.blogspot.com/2018/08/let-lambda-do-legwork.html)
 &raquo; |November 2017|[Signpost your Journey Through Badges](http://ramblingsofanthony.blogspot.com/2017/11/signpost-your-journey-through-badges.html)
