@@ -15,11 +15,11 @@
 
 # DevWorks Articles
 
- * December 2015 - [Generating SPMP Analytics from the command line - 6,500+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/Enabling_IBM_C
+ * December 2015 - [Generating SPMP Analytics from the command line - 6,500 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/Enabling_IBM_C
  %C3%BAram_Business_Intelligence_and_Analytics_with_DB2_BLU?lang=en)
- * December 2015 [Cúram Analytics accelerator for SPMP - 4,800+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/GeneratingSPMPAnalyticsFromTheCommandLine?lang=en)
-  *  November 2015 - [Reading multi-temperature data with SPMP Analytics - 6,000+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/ReadingMultiTemperatureDataWith-SPMPAnalytics?lang=en)
+ * December 2015 [Cúram Analytics accelerator for SPMP - 4,800 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/GeneratingSPMPAnalyticsFromTheCommandLine?lang=en)
+  *  November 2015 - [Reading multi-temperature data with SPMP Analytics - 6,000 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/ReadingMultiTemperatureDataWith-SPMPAnalytics?lang=en)
 /understanding_hcr_annual_renewals_tracking_data1?lang=en).
- *   October 2015 [Using DB2 BLU to enable Cúram Business Intelligence and Analytics - 5,000+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/Enabling_IBM_C%C3%BAram_Business_Intelligence_and_Analytics_with_DB2_BLU?lang=en)
-*  October 2015 - [Cúram SPMP Analytics application screen captures - 5,800+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/IBMC%C3%BAramSPMPAnalytics_ApplicationScreenCaptures?lang=en)
-  *  October 2014 - [Understanding HCR Annual Renewal Tracking Data - 6,000+ views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry
+ *   October 2015 [Using DB2 BLU to enable Cúram Business Intelligence and Analytics - 5,000 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/Enabling_IBM_C%C3%BAram_Business_Intelligence_and_Analytics_with_DB2_BLU?lang=en)
+*  October 2015 - [Cúram SPMP Analytics application screen captures - 5,800 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry/IBMC%C3%BAramSPMPAnalytics_ApplicationScreenCaptures?lang=en)
+  *  October 2014 - [Understanding HCR Annual Renewal Tracking Data - 6,000 views](https://www.ibm.com/developerworks/community/blogs/5e15a5a7-d4d6-4880-bd9c-e6819061a832/entry)
